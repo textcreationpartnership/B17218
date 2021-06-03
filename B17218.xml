@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Translated out of French. All honor and glory be given unto God alone, from whom we have all understanding, art, wisdome, and knowledge Hereafter followeth the great and miraculous vertue and operation of, the Pietra Celesta, or Celestiall stone, and the efficacy thereof.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17218</idno><idno type="EEBO-CITATION">99829263</idno>
+  <idno type="VID">207159</idno>
+  <idno type="EEBO-PROQUEST">2240869721</idno>
+  
+            <idno type="STC">Wing A3697B</idno>
+            <idno type="PROQUEST">99829263</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829263e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207159)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2003:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Translated out of French. All honor and glory be given unto God alone, from whom we have all understanding, art, wisdome, and knowledge Hereafter followeth the great and miraculous vertue and operation of, the Pietra Celesta, or Celestiall stone, and the efficacy thereof.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>And are to be sold by John Armenio, a Persian, in the Long Walk, between Christ-Church and Little Bartholomewes,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect: torn at side affecting text.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quacks and quackery --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, Popular --  Early works to 1800.</term>
+               <term type="topical_term">Minerology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:207159:1"/>
+            <argument>
+               <p>Translated out of French.</p>
+            </argument>
+            <opener>All Honor and glory be given unto God alone, from whom we have all Ʋnderstanding, Art, Wisdome, and Knowledge.</opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ereafter followeth the great and miraculous vertue and operation of, the <hi>Pietra Celesta,</hi> or Celestiall Stone, and the efficacy thereof.</p>
+            <p>It hath been called by the ancient Philosophers <hi>Alramento, Sutorio Calchanto</hi> or <hi>Stilhatitio,</hi> and in the Arabick Language <hi>Exauraton,</hi> and by the Turks who live in those parts, <hi>Gustacii,</hi> by the Spaniards <hi>Caparosa,</hi> and by the French <hi>Couperoso,</hi> the which Stone the Antients held in great request, and used the same fota Reme<g ref="char:EOLhyphen"/>dy against the following Maladies.</p>
+            <p>FIrst of all, this Stone is a certain and speciall Remedy for a Cure of the Eyes, especially for those that are weake sighted, and whose sight begins to diminish, and are constrainced to use Spectacles; it cleares the Eyes, and purifieth on such manner, that it will not be necessary for young nor old for to use Spectacles, it also helpeth the tooth-ache being touched therewith.</p>
+            <p>This Stone being put into halfe a spoon ful of Rose-water, or fresh Fountaine water, let it re<g ref="char:EOLhyphen"/>main therein so long time as you may say the Lords Prayer twice, afterwardes take it out again, and dry it well. This stone remaines alwaies good, it takes away the inflamation of the Eyes hot and cold Cataricks, washing them twice or thrice therewith, it dissipates the influxions of the Eyes and preserves hem cleare.</p>
+            <p>Secondly, it heales all diseases of the mouth, as the Scurvie, Pip, and roughnesse of the Gums, and the like: Put the stone into halfe a Glasse of Water of the best fountaine VVater, and set it remaine therein so long as you may say the Lords Prayer twice, then take it out a<g ref="char:EOLhyphen"/>gaine and dry it very well. This stone will remaine alwayes good, and wash your mouth with th s VVater very well every morning and Evening, and you having used this two or three times, it will heale the same.</p>
+            <p>Thirdly, it heales all evills or accidents of the Neck or Throat which are inwardly, as the holes in the Neck or Throat or if the Amons of the Throat, are, swolne; also other heats will be presently healed with this Water being luke-warme, four or five times gargled up in your throat Morning and Evening, and thereby it will be totally cured: And if you do but onely dip a little bit of Cotten into this water, and hold the same a little in your Nostrills, it purifyeth the Heat, an<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ssipates the Defluctions.</p>
+            <p>Fourthly, it heales all sorts of Scabe and Ulcers, and purifieth the Cathars or Defluctions which proceed from the Liver; it cleanseth and takes away all salt Defluctions which grow here and there within a man; as the dead Fire, and all other Evills and corruptions that are a<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y wa<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es dead or perished.</p>
+            <p>And if that you wash those Accidents, Scabs, and Ulcers, three or six times with this warme Water, it doth not onely take away the old flesh, and that which is perished, but causeth New Flesh for to grow in the place, and that in a short space.</p>
+            <p>It is a most assured Remedy for Cattel against all Accidents and Evills whatsoever: yet ne<g ref="char:EOLhyphen"/>verthelesse you must let it stand a little longer in the Water; and for the Eyes, you must let it drop in at the two Corners, for fear of rubbing. This Noble, Blew, and Turky Stone, in regard that it is not common in Germany, and also lesse known to poor people, the Reason is that the same comes out of Turky.</p>
+            <p>It is very nigh three yeares that I have sold the same in the Emperours Dominions, and in the Imperiall City of <hi>Vienna</hi> it hath been praysed and esteemed of generally by the Rich and Poor, as well there, as in all the other Cities; wherefore it may very well be called, The poor Mans Treasure.</p>
+            <p>Also it taketh away the sent of Tobacco in the mouth, onely once sucking it, and makes it <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sweet as Sugar.</p>
+            <p>These Stones are of a Mineral, and Nature of the Earth, and do grow in Turkie towards the Levant, or the East.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>And are to be sold by <hi>JOHN ARMENIO,</hi> a Persian, in the Long Walk, between Christ-Church and Little Bartholomewes, 1658.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
